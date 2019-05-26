@@ -1,4 +1,3 @@
-<img src="http://code.oa.com/v2/files/culture/component/201809/20180908104411331.png" width="450px" />
 
 ## 特点
 1. 健壮
